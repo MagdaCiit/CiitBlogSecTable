@@ -1,0 +1,14 @@
+com/example/secondary_table/service/CustomerService.java
+ com.example.secondary_table.service.CustomerService
+com/example/secondary_table/entities/Customer.java
+ com.example.secondary_table.entities.Customer
+com/example/secondary_table/SecondaryTableApplication.java
+ com.example.secondary_table.SecondaryTableApplication
+com/example/secondary_table/entities/CustomerDetails.java
+ com.example.secondary_table.entities.CustomerDetails
+com/example/secondary_table/converter/InstantConverter.java
+ com.example.secondary_table.converter.InstantConverter
+com/example/secondary_table/repo/CustomerRepo.java
+ com.example.secondary_table.repo.CustomerRepo
+com/example/secondary_table/rest_controller/CustomerRestController.java
+ com.example.secondary_table.rest_controller.CustomerRestController
